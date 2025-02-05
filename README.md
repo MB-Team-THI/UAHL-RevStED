@@ -1,5 +1,5 @@
 # UAHL-RevStED
-Official repository for the vehicle state estimation dataset and UAHL architecture 
+Official repository for the real vehicle state estimation dataset and UAHL architecture 
 
  **Overview** 
 
