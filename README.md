@@ -10,14 +10,15 @@ This repository currently contains a sample dataset for vehicle state estimation
 This dataset contains a 10-second measurement of vehicle dynamic states, captured from both the ADMA system and the Correvit sensor. It provides valuable data on vehicle behavior for analysis and model development.
 
 2) OBD_sample.csv
-This dataset includes onboard sensor measurements along with the vehicle's sideslip angle obtained from the Correvit sensor. It was used in our paper submitted to the Intelligent Vehicles Symposium. Upon acceptance, the full datasets will be made publicly available for further research and development.
+This dataset includes onboard sensor measurements along with the vehicle's sideslip angle obtained from the Correvit sensor. It was used in our paper submitted to the Intelligent Vehicles Symposium 2025. Upon acceptance, the full datasets will be made publicly available for further research and development.
 
 This second dataset was used for the paper submitted to the Intelligent Vehicles Symposium and upon acceptance, the full dataset will be published. 
 
 **Videos**
 
 1) A drone-captured video showcasing slalom manoeuvres performed on the test track.
+  [![Watch the Video](https://github.com/MB-Team-THI/UAHL-RevStED/blob/main/Drone.png)](https://github.com/MB-Team-THI/UAHL-RevStED/blob/main/Drone_slalom_compressed.mp4)
 2) A video demonstrating the UAHI-deep fusion architecture, developed as a virtual sensor for vehicle sideslip angle estimation.
-
+[![Watch the Video](https://github.com/MB-Team-THI/UAHL-RevStED/blob/main/Virtual-sensor_predictions.png)](https://github.com/MB-Team-THI/UAHL-RevStED/blob/main/Virtual_sensor_prediction.mp4)
 Note: Load the CSV files using Python, MATLAB, or any data processing tool. 
 
