@@ -7,12 +7,12 @@ This repository currently contains a sample dataset for vehicle state estimation
 
 **Sample Datasets**
 1) ADMA_data_sample.csv
-This dataset contains a 10-second measurement of vehicle dynamic states, captured from both the ADMA system and the Correvit sensor. It provides valuable data on vehicle behavior for analysis and model development.
+This dataset contains a 10-second measurement of vehicle dynamic states, captured from both the ADMA system and the Correvit sensor. It provides valuable data on vehicle behaviour for analysis and model development.
 
 2) OBD_sample.csv
-This dataset includes onboard sensor measurements along with the vehicle's sideslip angle obtained from the Correvit sensor. It was used in our paper submitted to the Intelligent Vehicles Symposium 2025. Upon acceptance, the full datasets will be made publicly available for further research and development.
+This dataset includes onboard sensor measurements along with the vehicle's sideslip angle obtained from the Correvit sensor. It was used in our paper submitted to the Intelligent Vehicles Symposium 2025. Currently, the values are rounded to three decimal places for improved readability.
 
-This second dataset was used for the paper submitted to the Intelligent Vehicles Symposium and upon acceptance, the full dataset will be published. 
+Upon acceptance, the full datasets will be made publicly available for further research and development.
 
 **Videos**
 
