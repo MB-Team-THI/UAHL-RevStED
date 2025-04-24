@@ -12,7 +12,7 @@ This dataset contains a 10-second measurement of vehicle dynamic states, capture
 2) OBD_sample.csv
 This dataset includes onboard sensor measurements along with the vehicle's sideslip angle obtained from the Correvit sensor. It was used in our paper submitted to the Intelligent Vehicles Symposium 2025. Currently, the values are rounded to three decimal places for improved readability. Note: The speedometer shows higher speeds than individual wheel speeds due to EU Regulation Directive 75/443/EEC.
 
-Upon acceptance, the full datasets will be made publicly available for further research and development.
+The complete ReVStED dataset is available for download in [📄 Zenodo](https://zenodo.org/records/15270060), and dataset quantities are explained in the [📊 ReV-StED Description.xlsx](ReV-StED%20Description.xlsx) file.
 
 **Videos**
 
