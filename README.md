@@ -22,3 +22,5 @@ The complete ReVStED dataset is available for download in [📄 Zenodo](https://
 [![Watch the Video](https://github.com/MB-Team-THI/UAHL-RevStED/blob/main/Virtual-sensor_predictions.png)](https://github.com/MB-Team-THI/UAHL-RevStED/blob/main/Virtual_sensor_prediction.mp4)
 Note: Load the CSV files using Python, MATLAB, or any data processing tool. 
 
+> [!IMPORTANT]
+> Code for *Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba* is available at [github.com/MB-Team-THI/Evidential-Mamba-for-Localization](https://github.com/MB-Team-THI/Evidential-Mamba-for-Localization).
